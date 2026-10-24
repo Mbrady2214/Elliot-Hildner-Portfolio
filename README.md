@@ -2,6 +2,8 @@
 
 Static portfolio site (HTML/CSS/JS, no build step) for Elliot Hildner: B.S. Mechanical Engineering, Oregon State University; M.S. Sports Product Design (in progress), University of Oregon.
 
+**Live site:** https://mbrady2214.github.io/Elliot-Hildner-Portfolio/
+
 ## Pages
 | File | Page |
 | --- | --- |
