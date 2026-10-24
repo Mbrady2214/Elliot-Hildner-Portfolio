@@ -1,0 +1,13 @@
+# Raw, unsorted files (unzipped originals). Only files sorted into
+# assets/ and models/ belong in the published site.
+_incoming/
+Media/
+*.zip
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Stray clone of the GitHub repo (made by GitHub Desktop), not part of the site
+Elliot-Hildner-Portfolio/
